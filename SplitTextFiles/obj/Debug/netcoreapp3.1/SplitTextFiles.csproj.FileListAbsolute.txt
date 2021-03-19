@@ -1,0 +1,13 @@
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.exe
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.deps.json
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.runtimeconfig.json
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.runtimeconfig.dev.json
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.dll
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\bin\Debug\netcoreapp3.1\SplitTextFiles.pdb
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.csprojAssemblyReference.cache
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.AssemblyInfoInputs.cache
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.AssemblyInfo.cs
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.dll
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.pdb
+C:\Users\renato.rossetti\source\repos\SplitTextFiles\SplitTextFiles\obj\Debug\netcoreapp3.1\SplitTextFiles.genruntimeconfig.cache
